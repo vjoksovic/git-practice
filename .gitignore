@@ -1,0 +1,6 @@
+﻿# Ignoriše sve .png fajlove
+*.png
+
+# Ignoriše direktorijume bin i obj
+bin/
+obj/
