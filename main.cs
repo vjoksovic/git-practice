@@ -10,7 +10,7 @@ namespace git_practice.my_machine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("git1");
+            Console.WriteLine("git2");
         }
     }
 }
