@@ -10,7 +10,7 @@ namespace git_practice.my_machine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("git2");
+            Console.WriteLine("git4");
         }
     }
 }
